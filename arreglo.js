@@ -9,28 +9,28 @@ const tiposDeComida = [
     {
       id: 2,
       comida: 'Tacos',
-      nombre: 'Mexicana',
+      origen: 'Mexicana',
       descripcion: 'La comida mexicana es conocida mundialmente y lo mas famosos son los tacos',
       precio : "$2.50"
     },
     {
       id: 3,
       comida: 'Suchi',
-      nombre: 'Japonesa',
+      origen: 'Japonesa',
       descripcion: 'La comida japonesa es muy variada, desde sushi y sashimi hasta ramen y tempura. Los platos japoneses suelen ser saludables y están hechos con ingredientes frescos y de alta calidad.',
       precio: '$4.50'
     },
     {
       id: 4,
       comida: 'Samosa',
-      nombre: 'India',
+      origen: 'India',
       descripcion: 'La Samosa conocida por su gran variedad de especias y sabores intensos. Los platos típicos incluyen curry, tandoori y samosas. La cocina india también es rica en vegetales y legumbres.',
       precio: "$3.25"
     },
     {
       id: 5 ,
       comida: 'Sopa de wonton',
-      nombre: 'China',
+      origen: 'China',
       descripcion: 'La comida china es muy diversa, desde dumplings y arroz frito hasta sopa de fideos y pato a la pekinesa. La cocina china también es famosa por su uso de ingredientes frescos y saludables.',
       precio: "$8.30"
     }
