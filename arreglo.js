@@ -1,4 +1,4 @@
-const tiposDeComida = [
+ export const tiposDeComida = [
     {
       id: 1, 
       comida: 'Pastas',
